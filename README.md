@@ -1,36 +1,29 @@
 # TrybeTunes
-O TrybeTunes é um projeto desenvolvido como parte do curso "Trybe" para simular um aplicativo de reprodução de músicas. O projeto permite aos usuários pesquisar músicas, criar playlists e reproduzir suas músicas favoritas.
 
-## Funcionalidades
-O projeto possui as seguintes funcionalidades:
-- Pesquisar músicas: os usuários podem pesquisar músicas pelo nome do artista, álbum ou título da música.
-- Reproduzir músicas: é possível reproduzir as músicas diretamente no aplicativo, com opções de controle de reprodução, como pausar, avançar e retroceder.
-- Salvar músicas favoritas: os usuários podem salvar suas músicas favoritas para acessá-las facilmente posteriormente.
+TrybeTunes is a project developed as part of the "Trybe" course to simulate a music playback application. The project allows users to search for songs, create playlists, and play their favorite tracks.
 
-## Tecnologias Utilizadas
+## Features
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+The project includes the following features:
 
-- JavaScript
-- React
-- Redux
-- CSS
-- API externa de música (exemplo: Spotify API)
+- **Search Songs**: Users can search for songs by artist name, album, or song title.
+- **Play Songs**: It is possible to play songs directly in the app, with playback controls such as pause, skip, and rewind.
+- **Save Favorite Songs**: Users can save their favorite songs for easy access later.
 
-## Instalação
-Para utilizar o TrybeTunes localmente, siga os passos abaixo:
-1. Clone o repositório para sua máquina local:
-git clone https://github.com/PedroEmmanuelBuerger/project-TrybeTunes.git
-2. Navegue até a pasta do projeto:
-cd project-TrybeTunes
-3. Instale as dependências do projeto: npm install
-4. Inicie o aplicativo: npm start
+## Technologies Used
 
+The project was developed using the following technologies:
 
-## Principais Aprendizados
-Durante o desenvolvimento deste projeto, foram explorados conceitos de desenvolvimento web com React e Redux, gerenciamento de estado da aplicação, consumo de API externa e manipulação de dados. Além disso, foram aplicadas técnicas de estilização utilizando CSS para criar uma interface agradável e responsiva.
+- **JavaScript**
+- **React**
+- **Redux**
+- **CSS**
+- **External Music API** (e.g., Spotify API)
 
-## Conclusão
-O TrybeTunes oferece aos usuários uma experiência de reprodução de músicas personalizada, permitindo pesquisar, criar playlists e reproduzir suas músicas favoritas. Com uma interface intuitiva e recursos completos, o TrybeTunes é ideal para os amantes de música desfrutarem de suas faixas preferidas. Aproveite a experiência oferecida pelo TrybeTunes!
+## Key Learnings
 
+During the development of this project, concepts such as web development with React and Redux, application state management, consuming external APIs, and data manipulation were explored. Additionally, CSS styling techniques were applied to create an enjoyable and responsive interface.
 
+## Conclusion
+
+TrybeTunes provides users with a personalized music playback experience, allowing them to search, create playlists, and play their favorite songs. With an intuitive interface and full features, TrybeTunes is perfect for music lovers to enjoy their favorite tracks. Enjoy the experience offered by TrybeTunes!
